@@ -1,2 +1,2 @@
 # CCDSA
-the code of paper "Context- and Category-aware Next POI Recommendation Model with Double Self-Attention"
+the code of paper "Context- and Category-aware Double Self-Attention Model for Next POI Recommendation"
